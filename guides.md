@@ -2,7 +2,7 @@
 
 [General thoughts about using Git with Unity](https://thoughtbot.com/blog/how-to-git-with-unity) - nothing totally new, but nice to remember (also good LFS template).
 
-[68+ great tips about different fields](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
+[68+ great tips about different fields](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php) - seems like it was cut in half during the site update. That's why I found [older](http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/) (but still really useful) version of this guide with more tips.
 
 # Guides
 
