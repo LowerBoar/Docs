@@ -4,6 +4,8 @@
 
 [68+ great tips about different fields](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php) - seems like it was cut in half during the site update. That's why I found [older](http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/) (but still really useful) version of this guide with more tips.
 
+[Naming conventions](https://stackoverflow.com/questions/24586319/what-is-a-good-naming-convention-for-unity) -  (according to some guy from StackOverflow)
+
 # Guides
 
 [Nice explanation of DDOL usage in 1st answer](https://stackoverflow.com/questions/35890932/unity-game-manager-script-works-only-one-time)
