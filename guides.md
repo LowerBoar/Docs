@@ -6,6 +6,8 @@
 
 [Naming conventions](https://stackoverflow.com/questions/24586319/what-is-a-good-naming-convention-for-unity) -  (according to some guy from StackOverflow)
 
+[Size and scaling](https://www.reddit.com/r/Unity2D/comments/2bsoj1/recommended_best_practices_for_pixel_art_games/) - first answer from Reddit
+
 # Guides
 
 [Nice explanation of DDOL usage in 1st answer](https://stackoverflow.com/questions/35890932/unity-game-manager-script-works-only-one-time)
