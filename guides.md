@@ -13,3 +13,5 @@
 [Nice explanation of DDOL usage in 1st answer](https://stackoverflow.com/questions/35890932/unity-game-manager-script-works-only-one-time)
 
 [State pattern in Unity](https://www.raywenderlich.com/6034380-state-pattern-using-unity)
+
+[Unity pixel-perfect camera manual](https://docs.unity3d.com/Packages/com.unity.2d.pixel-perfect@3.0/manual/index.html)
