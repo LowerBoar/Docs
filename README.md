@@ -25,3 +25,4 @@ First answer from Reddit
 1. [Nice explanation of DDOL usage in 1st answer](https://stackoverflow.com/questions/35890932/unity-game-manager-script-works-only-one-time)
 1. [State pattern in Unity](https://www.raywenderlich.com/6034380-state-pattern-using-unity)
 1. [Unity pixel-perfect camera manual](https://docs.unity3d.com/Packages/com.unity.2d.pixel-perfect@3.0/manual/index.html)
+1. [Nice and small video about assembly splitting in Unity](https://www.youtube.com/watch?v=eovjb5xn8y0&t=532s) - might not be applicable for this small projects, but will definetely help for something bigger
